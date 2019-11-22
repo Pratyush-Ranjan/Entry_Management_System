@@ -1,6 +1,9 @@
 # Entry_Management_System
 Entry Management Software (Innovaccer Summergeeks SDE intern 2020 assignment)
 
+## Approach
+
+
 ## Technology Stack
 
 - NodeJS
@@ -17,6 +20,8 @@ To test, contribute or just see what we did follow few easy steps:
 - clone the repository
 - cd to the directory with the repository
 - run `yarn install` (or `npm install` if you don't use yarn)
+- Go to Nexmo website (<https://www.nexmo.com/>), signup there and get your API key and secret
+- Make .env file and insert details there regarding API_KEY,API_SECRET for making connection to nexmo api and details of your e-mail and password required to send mail using nodemailer api.
 - run the app using `yarn start` (or `npm start`)
 - enjoy!
 
