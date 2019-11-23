@@ -33,6 +33,9 @@ To test, contribute or just see what we did follow few easy steps:
 - run the app using `yarn start` (or `npm start`)
 - now, open (<http://localhost:3000>) & enjoy!
 
+## Demo Video (https://youtu.be/kEOYu0fHAEo)
+[![Watch the video]()](https://youtu.be/kEOYu0fHAEo)
+
 ## Project Folder Structure
 
 > Folder structure does not include node_modules & .env 
