@@ -1,6 +1,9 @@
 # Entry_Management_System
 Entry Management Software (Innovaccer Summergeeks SDE intern 2020 assignment)
 
+## Demo Video (https://youtu.be/kEOYu0fHAEo)
+[Watch the video here](https://youtu.be/kEOYu0fHAEo)
+
 ## Approach
 
 As the visitors in office and outside are high, so made a Entry Management System.
@@ -33,8 +36,6 @@ To test, contribute or just see what we did follow few easy steps:
 - run the app using `yarn start` (or `npm start`)
 - now, open (<http://localhost:3000>) & enjoy!
 
-## Demo Video (https://youtu.be/kEOYu0fHAEo)
-[Watch the video here](https://youtu.be/kEOYu0fHAEo)
 
 ## Project Folder Structure
 
