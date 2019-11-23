@@ -34,7 +34,7 @@ To test, contribute or just see what we did follow few easy steps:
 - now, open (<http://localhost:3000>) & enjoy!
 
 ## Demo Video (https://youtu.be/kEOYu0fHAEo)
-[![Watch the video]](https://youtu.be/kEOYu0fHAEo)
+[Watch the video here](https://youtu.be/kEOYu0fHAEo)
 
 ## Project Folder Structure
 
